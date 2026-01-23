@@ -65,5 +65,6 @@
 ## 📫 Contact
 
 - GitHub: **@ELTANTAOUI-Y7**
+- LinkedIn: **@Yahya EL-TANTAOUI**
 
 
