@@ -2,8 +2,6 @@
 
 ### Engineering student passionate about Computer Science, AI & Cloud Computing
 
-📧 **UM6P Email** · 📬 **Personal Email** · 🌐 **Portfolio**
-
 </div>
 
 ---
