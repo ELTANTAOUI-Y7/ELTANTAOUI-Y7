@@ -8,7 +8,7 @@
 
 ## 🏠 About Me
 
-- 🎓 **Currently:** 3rd-year Computer Science Engineering student at **UM6P – College of Computing**  
+- 🎓 **Currently:** 1st-year Computer Science Engineering Cycle student at **UM6P – College of Computing**  
 - 🧠 **Interests:** Algorithms, Systems Programming, Machine Learning, Research  
 - 🤝 **Collaboration:** Open to programming projects & research papers
 
@@ -61,18 +61,9 @@
 
 ---
 
-## 📈 GitHub Philosophy
-
-- ✔️ Clean & documented code  
-- ✔️ Performance-aware implementations  
-- ✔️ Deep understanding of systems  
-- ✔️ Continuous learning mindset
-
----
 
 ## 📫 Contact
 
 - GitHub: **@ELTANTAOUI-Y7**
 
-⭐ *Thanks for visiting my profile!*
 
