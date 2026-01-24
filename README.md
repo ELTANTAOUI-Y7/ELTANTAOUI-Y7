@@ -1,6 +1,6 @@
 <div align="center">
 
-### Engineering student passionate about Computer Science
+### Hi, I'm Yahya
 
 </div>
 
