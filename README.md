@@ -10,7 +10,7 @@
 
 - 🎓 **Currently:** 1st-year Computer Science Engineering Cycle student at **UM6P – College of Computing**  
 - 🧠 **Interests:** Algorithms, AI, Machine Learning, Cloud Computing  
-- 🤝 **Collaboration:** Open to programming projects & research papers
+- 🤝 **Collaboration:** Open to programming projects
 
 ---
 
