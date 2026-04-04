@@ -1,6 +1,6 @@
 <div align="center">
 
-# Still Alive!
+# Yahya, Still Alive!
 
 </div>
 
@@ -44,9 +44,9 @@
 - Algorithms & Data Structures  
 - Algorithm Optimization  
 - Database Management Systems (DBMS)  
-- RISC-V Architecture  
+- Data science
 - Mathematics for Computer Science
-
+- Machine Learning 
 ---
 
 ## 🔭 Featured Projects
