@@ -9,7 +9,7 @@
 ## 🏠 About Me
 
 - 🎓 **Currently:** 1st-year Computer Science Engineering Cycle student at **UM6P – College of Computing**  
-- 🧠 **Interests:** Algorithms, AI, Machine Learning, Cloud Computing  
+- 🧠 **Interests:** Algorithms, AI, Machine Learning, Data science, Cloud.  
 - 🤝 **Collaboration:** Open to programming projects
 
 ---
@@ -35,7 +35,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
