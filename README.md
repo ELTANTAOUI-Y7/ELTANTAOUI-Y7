@@ -1,11 +1,9 @@
 
 <!-- Animated Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Yahya;2nd+Year+CS+Student;Minor+in+Data+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Yahya!;2nd+Year+CS+Student.;Minor+in+Data+%26+AI.;Still+Alive!" alt="Typing SVG" />
 </p>
-
 ---
-# Still Alive!
 
 </div>
 
@@ -13,7 +11,7 @@
 
 ## 🏠 About Me
 
-- 🎓 **Currently:** 1st-year Computer Science Engineering Cycle student at **UM6P – College of Computing**  
+- 🎓 **Currently:** 2nd-year Computer Science Engineering student at **UM6P – College of Computing**  
 - 🧠 **Interests:** Algorithms, AI, Machine Learning, Data science, Cloud.  
 - 🤝 **Collaboration:** Open to programming projects
 
@@ -23,26 +21,23 @@
 
 ### Languages & Core
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,go,c,cpp,js,html,css,sql" />
+</p>
 
 ### Web & Frameworks
 
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,React,firebase" />
+</p>
 
 ### DevOps & Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,jenkins" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+</p>
 
 ### Computer Science
 
