@@ -29,7 +29,7 @@
 ### Web & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,React,firebase" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,firebase" />
 </p>
 
 ### DevOps & Tools
