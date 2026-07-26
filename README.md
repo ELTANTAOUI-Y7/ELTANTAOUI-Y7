@@ -1,5 +1,10 @@
-<div align="center">
 
+<!-- Animated Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Yahya;2nd+Year+CS+Student;Minor+in+Data+%26+AI" alt="Typing SVG" />
+</p>
+
+---
 # Still Alive!
 
 </div>
