@@ -1,8 +1,6 @@
 
 <!-- Animated Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Yahya!;2nd+Year+CS+Student.;Minor+in+Data+%26+AI.;Still+Alive!" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00FF7F&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Yahya!;2nd+Year+CS+Student.;Minor+in+Data+%26+AI.;Still+Alive!" alt="Typing SVG" />
 
 
 </div>
